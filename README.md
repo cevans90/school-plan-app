@@ -22,7 +22,7 @@ To see the Stage[X]
 
 Clone the repository
 
-    git clone git@github.com:zalun/school-plan-app.git
+    git clone git@github.com:cevans90/school-plan-app.git
 
 Create a cordova app
 
